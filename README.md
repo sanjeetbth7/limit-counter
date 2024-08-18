@@ -11,7 +11,7 @@
 
 ## Demo
 
-Check out the live demo: [LimitCounter Demo](#) 
+Check out the live demo: [LimitCounter Demo](https://limit-counter.vercel.app/) 
 
 
 
